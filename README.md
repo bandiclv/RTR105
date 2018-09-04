@@ -1,47 +1,47 @@
 # RTR105
 Datormacību kursa elektroniskā klade
 
-VirtualBox --startvm XP - Startē VM ar XP
+<b>VirtualBox --startvm XP</b> - Startē VM ar XP
 
-quartus - Atver Intel Prime Prime Software
+<b>quartus</b> - Atver Intel Prime Prime Software
 
-firefox & - Atver Firefox internetpārlūk program
+<b>firefox &</b> - Atver Firefox internetpārlūk program
 
-uname - Parāda tavu operētājsistēmas(OS) nosaukumu
+<b>uname</b> - Parāda tavu operētājsistēmas(OS) nosaukumu
 
-clear - Notīra ekrānu Terminal
+<b>clear</b> - Notīra ekrānu Terminal
 
-uname -r - Parāda OS detalizētāku nosaukumu
+<b>uname -r</b> - Parāda OS detalizētāku nosaukumu
 
-uname -a - Parāda OS vēl detalizētāku nosaukumu
+<b>uname -a</b> - Parāda OS vēl detalizētāku nosaukumu
 
-history - Parāda visas iepriekš ievadītās komandas
+<b>history</b> - Parāda visas iepriekš ievadītās komandas
 
-echo $0 - Parāda ar kādu dialektu lietotājs strādā
+<b>echo $0</b> - Parāda ar kādu dialektu lietotājs strādā
 
-clear - Notīra ekrānu Terminal
+<b>clear</b> - Notīra ekrānu Terminal
 
-man uname - Izkaidro ko komanda "uname" dara/nozīmē
+<b>man uname</b> - Izkaidro ko komanda "uname" dara/nozīmē
 
-man man - Izkaidro ko komanda "man" dara/nozīmē
+<b>man man</b> - Izkaidro ko komanda "man" dara/nozīmē
 
-whoami - Parāda, kas pašlai lieot Terminal
+<b>whoami</b> - Parāda, kas pašlai lieot Terminal
 
-who - Parāda, visus kopējos lietotājus, kuri ir pieslēgušies
+<b>who</b> - Parāda, visus kopējos lietotājus, kuri ir pieslēgušies
 
-pwd - Parāda direktoriju, kurā pašlaik tu strādā
+<b>pwd</b> - Parāda direktoriju, kurā pašlaik tu strādā
 
-man pwd - Izkaidro ko komanda "pwd" dara/nozīmē
+<b>man pwd</b> - Izkaidro ko komanda "pwd" dara/nozīmē
 
-ls - Parāda visas direktorijas, kurai tev ir pieeja tagad esošajā direktorijā
+<b>ls</b> - Parāda visas direktorijas, kurai tev ir pieeja tagad esošajā direktorijā
 
-ls -l - Parāda kadas ir privilēģijas katram lietotājam katrai direktorijai
+<b>ls</b> -l - Parāda kadas ir privilēģijas katram lietotājam katrai direktorijai
 
-ls -a - Parāda arī apslēptās direktorijas, kuras sākas ar "."
+<b>ls</b> -a - Parāda arī apslēptās direktorijas, kuras sākas ar "."
 
-ls -la - "-l" un "-a" apvienojums
+<b>ls</b>-la - "-l" un "-a" apvienojums
 
-history - Parāda visas iepriekš ievadītās komandas
+<b>history</b> - Parāda visas iepriekš ievadītās komandas
 
-history > history_20180904.txt - Ieraksta visas iepriekš ievadītās komondas .txt failā
+<b>history > history_20180904.txt</b> - Ieraksta visas iepriekš ievadītās komondas .txt failā
 
