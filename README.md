@@ -35,11 +35,11 @@ Datormacību kursa elektroniskā klade
 
 <b>ls</b> - Parāda visas direktorijas, kurai tev ir pieeja tagad esošajā direktorijā
 
-<b>ls</b> -l - Parāda kadas ir privilēģijas katram lietotājam katrai direktorijai
+<b>ls -l</b> - Parāda kadas ir privilēģijas katram lietotājam katrai direktorijai
 
-<b>ls</b> -a - Parāda arī apslēptās direktorijas, kuras sākas ar "."
+<b>ls -a</b> - Parāda arī apslēptās direktorijas, kuras sākas ar "."
 
-<b>ls</b>-la - "-l" un "-a" apvienojums
+<b>ls-la</b> - "-l" un "-a" apvienojums
 
 <b>history</b> - Parāda visas iepriekš ievadītās komandas
 
