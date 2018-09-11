@@ -45,3 +45,25 @@ Datormacību kursa elektroniskā klade
 
 <b>history > history_20180904.txt</b> - Ieraksta visas iepriekš ievadītās komondas .txt failā
 
+<b>cd</b> - Maina direktoriju
+
+<b>mkdir</b> - Uztaisa jaunu direktoriju (Mapi)
+
+<b>rmdir</b> - Izdzēš direktoriju (mapi), kura ir tuksa
+
+<b>rm</b> - Izdzēš direktoriju (mapi), pat ja tā satur failus/apakš direktorijas (mapes)
+
+<b>echo "Teksts" > fails1.txt</b> - Tekstu "Teksts" ieraksta .txt failā
+
+<b>cat</b> - Var nolasit no .txt faila ierakstīto informāciju
+
+<b>echo "Cits Teksts" >> fails1.txt</b> - ">>" papildina .txt failu ar ar "" ieraktīto tekstu nākamajā rindiņā
+
+<b>chmod</b> - Maina privilēģinas noteiktiem failiem vai direktorijām
+
+<b>nano</b> - Teksta editors Linux terminālī
+
+<b>cp</b> - kopē failu no vienas direktorijas uz otru
+
+<b>mv</b> - Pārvieto failu no vienas direktorijas uz otru
+
