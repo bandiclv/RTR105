@@ -1,0 +1,64 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  whoami
+    5  ls
+    6  ls -l
+    7  firefox &
+    8  cd Desktop
+    9  pwd
+   10  cd ..
+   11  pwd
+   12  mkdir ManaMape
+   13  cd ManaMape
+   14  ls -la
+   15  cd ..
+   16  pwd
+   17  ls -la
+   18  ls
+   19  pwd
+   20  rmdir ManaMape
+   21  ls
+   22  pwd
+   23  mkdir
+   24  mkdir ManaMape
+   25  cd ManaMape
+   26  mkdir ManaPapildusMape
+   27  cd ManaPapildusMape
+   28  cd ..
+   29  rmdir ManaMape
+   30  man rmdir
+   31  man rm
+   32  pwd
+   33  rm -r ManaMape
+   34  pwd
+   35  ls
+   36  pwd
+   37  echo "Teksts" > fails1.txt
+   38  cat fails1.txt
+   39  echo "Cits Teksts" >> fails1.txt
+   40  cat fails1.txt
+   41  chmod 700 fails1.txt
+   42  chmod 400 fails1.txt
+   43  ls -la
+   44  ls
+   45  chmod 600 fails1.txt
+   46  ls -l
+   47  nano fails1.txt
+   48  ls
+   49  cp fails1.txt fails3.txt
+   50  ls
+   51  mv *.txt Music
+   52  ls
+   53  cd Msuci
+   54  cd Music
+   55  ls
+   56  mv *.txt /home/user
+   57  cd ..
+   58  ls
+   59  mv fails1.txt fails31.txt
+   60  ls
+   61  rm *.txt
+   62  ls
+   63  history
+   64  history > history_20180911.txt
