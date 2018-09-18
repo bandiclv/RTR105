@@ -67,3 +67,12 @@ Datormacību kursa elektroniskā klade
 
 <b>"mv"</b> - Pārvieto failu no vienas direktorijas uz otru
 
+<b>"echo -e "mkdir Mape\ncd Mape" > create_in.sh"</b> - komandas ieraksta skriptā
+
+<b>"chmod 764"</b> - Nomaina faila privilēģijas
+
+<b>"$PATH"</b> - parāda current PATH
+
+<b>"PATH="</b> - Set a new PATH
+
+<b>"git clone"</b> - Downloads GitHub repository

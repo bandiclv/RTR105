@@ -1,0 +1,21 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  history
+    4  pwd
+    5  nano README.md
+    6  mkdir git-upload.sh
+    7  ls
+    8  chmod 764 git-upload.sh
+    9  nano git-upload.sh
+   10  ls
+   11  rmdir git-upload.sh
+   12  ls
+   13  nano git-upload.sh
+   14  ls
+   15  nano git-upload.sh
+   16  ls
+   17  ls -l 
+   18  history > history_20180918
+   19  ls -l 
+   20  rmdir history_20180918
+   21  history > history_20180918.txt
