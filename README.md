@@ -1,6 +1,8 @@
 # RTR105
 Datormacību kursa elektroniskā klade
 
+<b>BASH</b>
+
 <b>"VirtualBox --startvm XP"</b> - Startē VM ar XP
 
 <b>"quartus"</b> - Atver Intel Prime Prime Software
@@ -76,3 +78,11 @@ Datormacību kursa elektroniskā klade
 <b>"PATH="</b> - Set a new PATH
 
 <b>"git clone"</b> - Downloads GitHub repository
+
+<b>PYTHON</b>
+
+<b>"vars()"</b> - parāda visas komandas
+
+<b>"type()"</b> - parāda kas par datu tipu ir mainīgais
+
+<b>__doc__</b> - parāda dokumentācijas funkiju
