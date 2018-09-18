@@ -19,3 +19,22 @@
    19  ls -l 
    20  rmdir history_20180918
    21  history > history_20180918.txt
+   22  ls -l 
+   23  chmod 764 git-upload
+   24  chmod 764 git-upload.sh
+   25  ./git-upload.sh 20180918_14_05
+   26  nano git-upload.sh
+   27  ls -l
+   28  chmod 764 git-upload
+   29  ls -l 
+   30  ./git-upload 20180918_14_05
+   31  nano git-upload.sh
+   32  nano git-upload
+   33  ./git-upload 20180918_14_05
+   34  nano git-upload
+   35  ./git-upload 20180918_14_05
+   36  python
+   37  ipython
+   38  idle &
+   39  ls -l 
+   40  history > history_20180918.txt
