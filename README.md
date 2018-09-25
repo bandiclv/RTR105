@@ -85,4 +85,21 @@ Datormacību kursa elektroniskā klade
 
 <b>"type()"</b> - parāda kas par datu tipu ir mainīgais
 
-<b>__doc__</b> - parāda dokumentācijas funkiju
+<b>__doc__</b> - parāda dokumentācijas funkiju\
+
+<b>'''</b>
+          - iekomente bloku
+<b>'''</b>
+
+<b>input([prompt])</b> - var ievadit tekstu, ko parada pectam dators
+
+<b>print</b> - Uz datora ekrana izprinte doto mainigo
+
+<b>"ashdbadbs %d"%</b> - vesels skaitlis
+
+<b>"asdasdasd %f"%</b> - dalskaitlis
+
+<b>"asdasdasd %s"%</b> - simbolu rinda
+
+<b>raw_input("asdasdas")</b> - Tiek izmantots prieks simbolu rindas
+
