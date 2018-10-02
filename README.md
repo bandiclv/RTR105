@@ -103,8 +103,3 @@ Datormacību kursa elektroniskā klade
 
 <b>raw_input("asdasdas")</b> - Tiek izmantots prieks simbolu rindas
 
-<b>def asdkasnd():</b> - funkcija
-
-<b>float()</b> - parveido par float
-
-
