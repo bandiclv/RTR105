@@ -1,0 +1,11 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  idle &
+    4  firefox &
+    5  <sasdasdsdsadasd
+    6  git clone https://github.com/bandiclv/RTR105
+    7  ls
+    8  cd RTR105
+    9  ls
+   10  asdasd
+   11  history > history_20181023_14_05
